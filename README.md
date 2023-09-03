@@ -1,7 +1,7 @@
 # Madt8101-CustomerAnalytics
 Explore 5 meticulously crafted projects in the MADT8101 Customer Analytics Course Repo. Uncover valuable insights, code, and data for actionable customer analytics.
 
-1. [Customer Lifetime Value]([Customer Data Platform and Single View/README.md](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Customer%20Data%20Platform%20and%20Single%20View/README.md))
+1. ([Customer Data Platform and Single View/README.md](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Customer%20Data%20Platform%20and%20Single%20View/README.md))
 
 Description: This project focuses on designing a Customer Data Platform (CDP) and creating a unified Customer Single View. It involves data integration, cleansing, and structuring to provide a holistic view of customers.
 

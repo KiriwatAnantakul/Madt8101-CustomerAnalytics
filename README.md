@@ -6,7 +6,7 @@ Explore 5 meticulously crafted projects in the MADT8101 Customer Analytics Cours
 
 Description: This project focuses on designing a Customer Data Platform (CDP) and creating a unified Customer Single View. It involves data integration, cleansing, and structuring to provide a holistic view of customers.
 
-![CDP](Customer Data Platform and Single View/Image/intro.PNG) ) 
+![CDP](Customer Data Platform and Single View/Image/intro.PNG)
 
 2. [Customer Lifetime Value:](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Customer%20Lifetime%20Value/README.md)
 

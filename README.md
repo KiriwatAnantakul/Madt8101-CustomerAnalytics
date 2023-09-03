@@ -12,9 +12,13 @@ Description: This project focuses on designing a Customer Data Platform (CDP) an
 
 Description: In this project, we calculate and optimize Customer Lifetime Value (CLV) using statistical and machine learning techniques. CLV helps in understanding the long-term value of customers and optimizing marketing strategies.
 
+![CLV](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Customer%20Lifetime%20Value/Image/Dusit%20Thani%20Group.PNG)
+
 3. [Churn Scoring:](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Customer%20Scoring/README.md)
 
 Description: Churn Scoring is about predicting customer churn. This project develops predictive models using historical data to identify customers at risk of leaving, allowing for proactive retention strategies.
+
+![Churn](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Customer%20Scoring/Image/churn.png)
 
 4. [Customer Segmentation and Recommendation:]
 
@@ -24,4 +28,5 @@ Description: This project involves customer segmentation based on behavior and c
 
 Description: Voice of Customer Analytics project extracts insights from customer feedback and reviews. It may include sentiment analysis, topic modeling, and visualization to understand customer sentiments and preferences.
 
+![NLP](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Voice%20of%20Customer/Image/nlp.jpg)
 

@@ -6,11 +6,10 @@ Customer Lifetime Value (CLV) is a crucial metric for Dusit Thani Group, a leadi
 ![DusitThaniLogo](Image/Dusit%Thani%Group.PNG)
 "First choice" is credit card that allow you to split payment transaction into 3 bills with 0% offer, money loan and other promotions
 
-## Hypothesis
-We assume that more customer are more probability of bad debt so we design new model to evaluate CLV base on Behavioural score and Risk score (by rule base)
-then multiply by customer Tier (from Loyalty point)
+## Current loyalty Program
+We First look at the current loyalty program of Dusit Group. which contain 3 member tiers : Premier, Executive, Elite.
 
-![image](Firstchoice-5.png)
+![currentcustomerloyaltyprogram](Image/Current%Loyalty%Program.PNG)
 
 ### Rule base Behavioural score
 ![image](Firstchoice-6.png)

@@ -43,19 +43,10 @@ Prepare the features for modelling. Encoded all the categorical columns with one
 
 ## 3) Model Creation & Evaluation
 - Model Used:
-- classification_models = {
-    'Random Forest': RandomForestClassifier(random_state=42),
-    'Logistic Regression': LogisticRegression(random_state=42),
-    'Support Vector Machine': SVC(random_state=42),
-    'Gradient Boosting': GradientBoostingClassifier(random_state=42),
-    'XGBoost': XGBClassifier(random_state=42)
+- 5 classification_models = 'Random Forest','Logistic Regression','Support Vector Machine','Gradient Boosting','XGBoost'
   
-- Fixing Imbalance Technique: Undersampling,Oversampling, SMOTE
-    'Oversampling': RandomOverSampler(sampling_strategy='minority', random_state=42),
-    'Undersampling': RandomUnderSampler(sampling_strategy='majority', random_state=42),
-    'SMOTE': SMOTE(sampling_strategy='auto', random_state=42)
-
-
+- Fixing Imbalance Technique: Undersampling, Oversampling, SMOTE
+   
 ![ModelResults](Image/Modelresult.PNG) 
   
 ## 4) Result Feature Importance

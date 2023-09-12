@@ -20,7 +20,7 @@ Churn Scoring represents a vital endeavor in forecasting and mitigating customer
 
 ![Churn](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/blob/main/Customer%20Scoring/Image/churn.png)
 
-4. [Customer Segmentation and Recommendation:]
+4. [Customer Segmentation and Recommendation:](https://github.com/KiriwatAnantakul/Madt8101-CustomerAnalytics/tree/main/Customer%20Segmentation%20and%20Product%20Recommendation)
 
 This project is centered around the strategic art of customer segmentation, meticulously crafted using a fusion of behavioral patterns and distinctive characteristics. Furthermore, it deploys cutting-edge recommendation systems that are finely tuned to discern and suggest products or services, finely tailored to the unique preferences of each individual customer. This holistic approach to customer engagement not only enhances the precision of our offerings but also fosters stronger and more enduring customer relationships.
 
